@@ -1,6 +1,6 @@
-import solutions.Task11
+import solutions.Task7
 
 fun main(args: Array<String>) {
-    val task11 = Task11()
-    task11.process()
+    val task7 = Task7()
+    task7.process()
 }
